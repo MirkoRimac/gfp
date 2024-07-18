@@ -18,8 +18,8 @@
             <h2>Werde jetzt Teil unseres Kults!</h2>
 
             <div class="row justify-content-center mt-5">
-                <div class="col-auto"><img src="/gfn-main/img/panda.png" alt=""></div>
-                <div class="col-auto"><a href="/gfn-main/login.php" class="joinBtn"><img src="/gfn-main/img/joinBtn.png" alt=""></a></div>
+                <div class="col-auto"><img src="./img/panda.png" alt=""></div>
+                <div class="col-auto"><a href="./login.php" class="joinBtn"><img src="./img/joinBtn.png" alt=""></a></div>
             </div>
         </div>
 
